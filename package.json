@@ -1,5 +1,5 @@
 {
-  "name": "shuffleboard",
+  "name": "shuffleboston",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adgood100/shuffleboard.git"
+    "url": "git+https://github.com/adgood100/shuffleboston.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adgood100/shuffleboard/issues"
+    "url": "https://github.com/adgood100/shuffleboston/issues"
   },
-  "homepage": "https://github.com/adgood100/shuffleboard#readme",
+  "homepage": "https://github.com/adgood100/shuffleboston#readme",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
